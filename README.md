@@ -1,2 +1,6 @@
 # My-config-qtile
-Mi config de qtile modificada
+Mi configuracion modificada de qtile 
+
+
+Terminal = Termite
+WM = qtile
